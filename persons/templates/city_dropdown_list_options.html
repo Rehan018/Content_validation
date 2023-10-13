@@ -1,0 +1,4 @@
+<option value="">---------</option>
+{% for subdomain in cities %}
+<option value="{{ subdomain.pk }}">{{ subdomain.name }}</option>
+{% endfor %}
