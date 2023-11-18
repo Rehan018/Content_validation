@@ -1,6 +1,5 @@
 # Django Dependent/Chained Dropdown List
 
-[Watch Demonstration Video](https://www.youtube.com/CodeBand)
 
 ## Usage
 
